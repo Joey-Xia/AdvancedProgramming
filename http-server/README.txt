@@ -1,0 +1,1 @@
+This is code for an HTTP server that returns dynamic content based on user-inputted search strings. It maintains a constant TCP connection with mdblookup, which is the database server whose code can be found under 'mdb-lookup-server.c'
