@@ -1,1 +1,1 @@
-Implements a database server that returns certain structs based on an input search string.
+Implements a database server that is used as the backend of the web server described in 'http-server.c'. Uses legacy code in 'lab 3' for linked list implemenation, and code from 'lab 4' for input/output implementation.
